@@ -1,0 +1,14 @@
+D:\TFSSource\ECSCommon\MainSource\Bin_Debug\ZECS.Common.Facility.dll
+D:\TFSSource\ECSCommon\MainSource\Bin_Debug\ZECS.Common.Facility.pdb
+D:\TFSSource\ECSCommon\MainSource\Common\ZECS.Common.Facility\obj\Debug\ZECS.Common.Facility.csprojResolveAssemblyReference.cache
+D:\TFSSource\ECSCommon\MainSource\Common\ZECS.Common.Facility\obj\Debug\ZECS.Common.Facility.csproj.CoreCompileInputs.cache
+D:\TFSSource\ECSCommon\MainSource\Common\ZECS.Common.Facility\obj\Debug\ZECS.Common.Facility.dll
+D:\TFSSource\ECSCommon\MainSource\Common\ZECS.Common.Facility\obj\Debug\ZECS.Common.Facility.pdb
+C:\Users\chenuicn\Desktop\Bin_Debug\ZECS.Common.Facility.dll
+C:\Users\chenuicn\Desktop\Bin_Debug\ZECS.Common.Facility.pdb
+C:\Users\chenuicn\Desktop\桌面0325\ZECS.Common.Facility\obj\Debug\ZECS.Common.Facility.dll
+C:\Users\chenuicn\Desktop\桌面0325\ZECS.Common.Facility\obj\Debug\ZECS.Common.Facility.pdb
+C:\Users\Administrator\Desktop\test\Bin_Debug\ZECS.Common.Facility.dll
+C:\Users\Administrator\Desktop\test\Bin_Debug\ZECS.Common.Facility.pdb
+C:\Users\Administrator\Desktop\test\test\ZECS.Common.Facility\obj\Debug\ZECS.Common.Facility.dll
+C:\Users\Administrator\Desktop\test\test\ZECS.Common.Facility\obj\Debug\ZECS.Common.Facility.pdb

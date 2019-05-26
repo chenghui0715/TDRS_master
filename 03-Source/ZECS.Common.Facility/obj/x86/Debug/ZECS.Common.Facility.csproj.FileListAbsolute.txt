@@ -1,0 +1,15 @@
+D:\TFSSource\ECSCommon\MainSource\Bin_Debug\ZECS.Common.Facility.dll
+D:\TFSSource\ECSCommon\MainSource\Bin_Debug\ZECS.Common.Facility.pdb
+D:\TFSSource\ECSCommon\MainSource\Common\ZECS.Common.Facility\obj\x86\Debug\ZECS.Common.Facility.csproj.CoreCompileInputs.cache
+D:\TFSSource\ECSCommon\MainSource\Common\ZECS.Common.Facility\obj\x86\Debug\ZECS.Common.Facility.dll
+D:\TFSSource\ECSCommon\MainSource\Common\ZECS.Common.Facility\obj\x86\Debug\ZECS.Common.Facility.pdb
+D:\个人\宇辉\监控系统\Bin_Debug\ZECS.Common.Facility.dll
+D:\个人\宇辉\监控系统\Bin_Debug\ZECS.Common.Facility.pdb
+D:\个人\宇辉\监控系统\03-Source\ZECS.Common.Facility\bin\Debug\ZECS.Common.Facility.dll
+D:\个人\宇辉\监控系统\03-Source\ZECS.Common.Facility\bin\Debug\ZECS.Common.Facility.pdb
+D:\个人\宇辉\监控系统\03-Source\ZECS.Common.Facility\obj\x86\Debug\ZECS.Common.Facility.dll
+D:\个人\宇辉\监控系统\03-Source\ZECS.Common.Facility\obj\x86\Debug\ZECS.Common.Facility.pdb
+D:\测试\03-Source\03-Source\ZECS.Common.Facility\bin\Debug\ZECS.Common.Facility.dll
+D:\测试\03-Source\03-Source\ZECS.Common.Facility\bin\Debug\ZECS.Common.Facility.pdb
+D:\测试\03-Source\03-Source\ZECS.Common.Facility\obj\x86\Debug\ZECS.Common.Facility.dll
+D:\测试\03-Source\03-Source\ZECS.Common.Facility\obj\x86\Debug\ZECS.Common.Facility.pdb

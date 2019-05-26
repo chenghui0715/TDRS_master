@@ -1,0 +1,8 @@
+D:\BBRAUN\LocomotiveMonitor\YH.ICMS.Entity\bin\Debug\YH.ICMS.Entity.dll
+D:\BBRAUN\LocomotiveMonitor\YH.ICMS.Entity\bin\Debug\YH.ICMS.Entity.pdb
+D:\BBRAUN\LocomotiveMonitor\YH.ICMS.Entity\obj\Debug\YH.ICMS.Entity.dll
+D:\BBRAUN\LocomotiveMonitor\YH.ICMS.Entity\obj\Debug\YH.ICMS.Entity.pdb
+D:\个人\宇辉\监控系统\03-Source\YH.ICMS.Entity\bin\Debug\YH.ICMS.Entity.dll
+D:\个人\宇辉\监控系统\03-Source\YH.ICMS.Entity\bin\Debug\YH.ICMS.Entity.pdb
+D:\个人\宇辉\监控系统\03-Source\YH.ICMS.Entity\obj\Debug\YH.ICMS.Entity.dll
+D:\个人\宇辉\监控系统\03-Source\YH.ICMS.Entity\obj\Debug\YH.ICMS.Entity.pdb

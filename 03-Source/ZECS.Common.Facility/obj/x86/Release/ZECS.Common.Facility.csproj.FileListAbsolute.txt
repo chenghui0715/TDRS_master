@@ -1,0 +1,6 @@
+D:\TFSSource\ECSCommon\MainSource\Bin\ZECS.Common.Facility.dll
+D:\TFSSource\ECSCommon\MainSource\Bin\ZECS.Common.Facility.pdb
+D:\TFSSource\ECSCommon\MainSource\Common\ZECS.Common.Facility\obj\x86\Release\ZECS.Common.Facility.csproj.CoreCompileInputs.cache
+D:\TFSSource\ECSCommon\MainSource\Common\ZECS.Common.Facility\obj\x86\Release\ZECS.Common.Facility.dll
+D:\TFSSource\ECSCommon\MainSource\Common\ZECS.Common.Facility\obj\x86\Release\ZECS.Common.Facility.pdb
+D:\TFSSource\ECSCommon\MainSource\Common\ZECS.Common.Facility\obj\x86\Release\ZECS.Common.Facility.csprojResolveAssemblyReference.cache

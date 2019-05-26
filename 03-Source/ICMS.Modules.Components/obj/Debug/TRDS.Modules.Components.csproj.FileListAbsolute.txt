@@ -1,0 +1,5 @@
+D:\个人\宇辉\监控系统\03-Source\ICMS\bin\Debug\Moubles\ICMS.Modules.Components.dll
+D:\个人\宇辉\监控系统\03-Source\ICMS\bin\Debug\Moubles\ICMS.Modules.Components.pdb
+D:\个人\宇辉\监控系统\03-Source\ICMS.Modules.Components\obj\Debug\TRDS.Modules.Components.csprojResolveAssemblyReference.cache
+D:\个人\宇辉\监控系统\03-Source\ICMS.Modules.Components\obj\Debug\ICMS.Modules.Components.dll
+D:\个人\宇辉\监控系统\03-Source\ICMS.Modules.Components\obj\Debug\ICMS.Modules.Components.pdb

@@ -1,0 +1,9 @@
+D:\BBRAUN\LocomotiveMonitor\YH.ICMS.Common\bin\Debug\YH.ICMS.Common.dll
+D:\BBRAUN\LocomotiveMonitor\YH.ICMS.Common\bin\Debug\YH.ICMS.Common.pdb
+D:\BBRAUN\LocomotiveMonitor\YH.ICMS.Common\obj\Debug\YH.ICMS.Common.dll
+D:\BBRAUN\LocomotiveMonitor\YH.ICMS.Common\obj\Debug\YH.ICMS.Common.pdb
+D:\个人\宇辉\监控系统\03-Source\YH.ICMS.Common\bin\Debug\YH.ICMS.Common.dll
+D:\个人\宇辉\监控系统\03-Source\YH.ICMS.Common\bin\Debug\YH.ICMS.Common.pdb
+D:\个人\宇辉\监控系统\03-Source\YH.ICMS.Common\obj\Debug\YH.ICMS.Common.dll
+D:\个人\宇辉\监控系统\03-Source\YH.ICMS.Common\obj\Debug\YH.ICMS.Common.pdb
+D:\个人\宇辉\监控系统\03-Source\YH.ICMS.Common\obj\Debug\YH.ICMS.Common.csprojResolveAssemblyReference.cache

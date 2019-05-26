@@ -1,0 +1,12 @@
+D:\TFSSource\STSMS\MainSource\Bin\ZECS.STS.EventLog.dll
+D:\TFSSource\STSMS\MainSource\Bin\ZECS.STS.EventLog.pdb
+D:\TFSSource\STSMS\MainSource\Source\ZECS.STS.EventLog\obj\Release\ZECS.STS.EventLog.csprojResolveAssemblyReference.cache
+D:\TFSSource\STSMS\MainSource\Source\ZECS.STS.EventLog\obj\Release\ZECS.STS.EventLog.csproj.CoreCompileInputs.cache
+D:\TFSSource\STSMS\MainSource\Source\ZECS.STS.EventLog\obj\Release\ZECS.STS.EventLog.dll
+D:\TFSSource\STSMS\MainSource\Source\ZECS.STS.EventLog\obj\Release\ZECS.STS.EventLog.pdb
+E:\振华重工\SourceCode20180715\source\TFSSource\STSMS\MainSource\Build\Bin\ZECS.STS.EventLog.dll
+E:\振华重工\SourceCode20180715\source\TFSSource\STSMS\MainSource\Build\Bin\ZECS.STS.EventLog.pdb
+E:\振华重工\SourceCode20180715\source\TFSSource\STSMS\MainSource\Source\ZECS.STS.EventLog\obj\Release\ZECS.STS.EventLog.csprojResolveAssemblyReference.cache
+E:\振华重工\SourceCode20180715\source\TFSSource\STSMS\MainSource\Source\ZECS.STS.EventLog\obj\Release\ZECS.STS.EventLog.csproj.CoreCompileInputs.cache
+E:\振华重工\SourceCode20180715\source\TFSSource\STSMS\MainSource\Source\ZECS.STS.EventLog\obj\Release\ZECS.STS.EventLog.dll
+E:\振华重工\SourceCode20180715\source\TFSSource\STSMS\MainSource\Source\ZECS.STS.EventLog\obj\Release\ZECS.STS.EventLog.pdb

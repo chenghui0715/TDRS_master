@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<VM_MSConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrainDirection>入库方向</TrainDirection>
+  <SqlConnect>Data Source = 127.0.0.1; Initial Catalog = TRDSDB; Persist Security Info=True;User ID = sa; Password=nexadia</SqlConnect>
+  <AutoStart>false</AutoStart>
+  <IP>192.168.20.2</IP>
+  <Port>8888</Port>
+  <TimeOut>30</TimeOut>
+  <Com>Com3</Com>
+  <BaudRate>9600</BaudRate>
+  <DataBits>8</DataBits>
+  <StopBits>1</StopBits>
+  <Station>1</Station>
+  <ComIndex>0</ComIndex>
+  <Parity>0</Parity>
+  <ComFlag>true</ComFlag>
+  <DDFlag>true</DDFlag>
+</VM_MSConfig>

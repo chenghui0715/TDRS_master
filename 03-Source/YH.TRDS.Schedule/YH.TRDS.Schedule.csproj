@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A47FD1B-02D9-444B-8484-6E7D54A5B6B6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>YH.TRDS.Schedule</RootNamespace>
+    <AssemblyName>YH.TRDS.Schedule</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HslCommunication">
+      <HintPath>..\CommonLibrary\HslCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\CommonLibrary\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MSSchedule.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScheduleMode.cs" />
+    <Compile Include="TaskScheduleBase.cs" />
+    <Compile Include="TaskSchedule_EnterExit.cs" />
+    <Compile Include="TaskSchedule_Enter.cs" />
+    <Compile Include="TaskSchedule_Exit.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\YH.ICMS.BLL\YH.TRDS.BLL.csproj">
+      <Project>{AD940965-7EF4-4EA3-989B-D97F9968403B}</Project>
+      <Name>YH.TRDS.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YH.ICMS.Common\YH.TRDS.Common.csproj">
+      <Project>{A3B8AF5E-EEE1-491E-B541-F54DFCBD372E}</Project>
+      <Name>YH.TRDS.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YH.ICMS.Entity\YH.TRDS.Entity.csproj">
+      <Project>{ACAFF5A6-6CDC-4DF5-A8DE-E943C1EC553C}</Project>
+      <Name>YH.TRDS.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YH.TRDS.Equipment\YH.TRDS.Equipment.csproj">
+      <Project>{A42296F5-62D9-470F-91BD-FA728B995DA1}</Project>
+      <Name>YH.TRDS.Equipment</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

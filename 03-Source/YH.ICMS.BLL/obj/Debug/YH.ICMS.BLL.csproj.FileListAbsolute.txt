@@ -1,0 +1,8 @@
+D:\BBRAUN\LocomotiveMonitor\YH.ICMS.BLL\bin\Debug\YH.ICMS.BLL.dll
+D:\BBRAUN\LocomotiveMonitor\YH.ICMS.BLL\bin\Debug\YH.ICMS.BLL.pdb
+D:\BBRAUN\LocomotiveMonitor\YH.ICMS.BLL\obj\Debug\YH.ICMS.BLL.dll
+D:\BBRAUN\LocomotiveMonitor\YH.ICMS.BLL\obj\Debug\YH.ICMS.BLL.pdb
+D:\个人\宇辉\监控系统\03-Source\YH.ICMS.BLL\bin\Debug\YH.ICMS.BLL.dll
+D:\个人\宇辉\监控系统\03-Source\YH.ICMS.BLL\bin\Debug\YH.ICMS.BLL.pdb
+D:\个人\宇辉\监控系统\03-Source\YH.ICMS.BLL\obj\Debug\YH.ICMS.BLL.dll
+D:\个人\宇辉\监控系统\03-Source\YH.ICMS.BLL\obj\Debug\YH.ICMS.BLL.pdb

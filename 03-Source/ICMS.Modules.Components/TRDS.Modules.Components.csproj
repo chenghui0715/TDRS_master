@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EA4B9E5B-78B8-4536-B6F3-0694067A32F6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ICMS.Modules.Components</RootNamespace>
+    <AssemblyName>ICMS.Modules.Components</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\ICMS\bin\Debug\Moubles\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICMS.Modules.BaseComponents, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CommonLibrary\ICMS.Modules.BaseComponents.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcDaNet, Version=5.2.1.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CommonLibrary\OpcDaNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TLAgent.Commons, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CommonLibrary\TLAgent.Commons.dll</HintPath>
+    </Reference>
+    <Reference Include="TLAgent.OpcLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CommonLibrary\TLAgent.OpcLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Commons\CheckRouteController.cs" />
+    <Compile Include="Commons\ErrorCodeHelper.cs" />
+    <Compile Include="Commons\UpdateStationController.cs" />
+    <Compile Include="Controls\FirstManOperationController.cs" />
+    <Compile Include="Controls\HighPressureAgingEQController.cs" />
+    <Compile Include="Controls\LightningImpulseEQController.cs" />
+    <Compile Include="Controls\SecondVacuumManOperationController.cs" />
+    <Compile Include="Controls\VacuumRetestController.cs" />
+    <Compile Include="DAO\CommonsDAO.cs" />
+    <Compile Include="DAO\ErrorCodeDAO.cs" />
+    <Compile Include="DAO\RouteDAO.cs" />
+    <Compile Include="DAO\TouchResistanceDAO.cs" />
+    <Compile Include="DAO\VacuumDAO.cs" />
+    <Compile Include="DAO\HighPressureAgingDAO.cs" />
+    <Compile Include="DAO\HighPressureAgingEQDAO.cs" />
+    <Compile Include="DAO\LightningImpulseDAO.cs" />
+    <Compile Include="DAO\LightningImpulseEQDAO.cs" />
+    <Compile Include="DAO\SecondVacuumDAO.cs" />
+    <Compile Include="DAO\VacuumRetestDAO.cs" />
+    <Compile Include="DAO\XRayDAO.cs" />
+    <Compile Include="Controls\FirstVacuumController.cs" />
+    <Compile Include="Controls\HighPressureAgingController.cs" />
+    <Compile Include="Controls\LightningImpulseController.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Controls\SecondVacuumController.cs" />
+    <Compile Include="Controls\SprayPaintingController.cs" />
+    <Compile Include="Controls\TouchResistanceController.cs" />
+    <Compile Include="Controls\UpsettingController.cs" />
+    <Compile Include="Controls\VisualInspectionController.cs" />
+    <Compile Include="Controls\XRayController.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

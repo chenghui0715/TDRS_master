@@ -1,0 +1,9 @@
+D:\个人\宇辉\监控系统\03-Source\CommonLibrary\ICMS.Modules.BaseComponents.dll
+D:\个人\宇辉\监控系统\03-Source\CommonLibrary\ICMS.Modules.BaseComponents.pdb
+D:\个人\宇辉\监控系统\03-Source\ICMS.Modules.BaseComponents\obj\Debug\TRDS.Modules.BaseComponents.csprojResolveAssemblyReference.cache
+D:\个人\宇辉\监控系统\03-Source\ICMS.Modules.BaseComponents\obj\Debug\ICMS.Modules.BaseComponents.EQSetupForm.resources
+D:\个人\宇辉\监控系统\03-Source\ICMS.Modules.BaseComponents\obj\Debug\ICMS.Modules.BaseComponents.EQItem.resources
+D:\个人\宇辉\监控系统\03-Source\ICMS.Modules.BaseComponents\obj\Debug\ICMS.Modules.BaseComponents.Properties.Resources.resources
+D:\个人\宇辉\监控系统\03-Source\ICMS.Modules.BaseComponents\obj\Debug\TRDS.Modules.BaseComponents.csproj.GenerateResource.Cache
+D:\个人\宇辉\监控系统\03-Source\ICMS.Modules.BaseComponents\obj\Debug\ICMS.Modules.BaseComponents.dll
+D:\个人\宇辉\监控系统\03-Source\ICMS.Modules.BaseComponents\obj\Debug\ICMS.Modules.BaseComponents.pdb
